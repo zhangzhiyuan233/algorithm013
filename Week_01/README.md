@@ -49,9 +49,9 @@ list = []
         self.data = data 
   ```
 ![](doubly_linked_list.png)
-#### 跳表：
-- 只能用于元素有序的情况
-- insert/ delete/ search: $O(logN)$
+- 跳表：
+  - 只能用于元素有序的情况
+  - insert/ delete/ search: $O(logN)$
 
 ### 4. 栈/对列/双端对列/优先对列：
 #### 栈(Stack):
