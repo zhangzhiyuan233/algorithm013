@@ -175,6 +175,17 @@ class Solution:
         ans = [-x for x in hp]
         return ans
 ```
+- Python当中，PriorityQueue就是用heapq实现的
+```
+#向队列中添加元素
+Queue.put(item[, block[, timeout]])
+#从队列中获取元素
+Queue.get([block[, timeout]])
+#队列判空
+Queue.empty()
+#队列大小
+Queue.qsize()
+```
 
 
 
