@@ -1,1 +1,1 @@
-# Exercise for leetcode
+# Exercise for Leetcode
